@@ -1,0 +1,12 @@
+name: 'Run Transformer'
+description: 'Runs the transformer.'
+inputs:
+  xform-command:
+    description: 'The command to execute the transformer.'
+    required: true
+    default: '${GITHUB_WORKSPACE}/src/xform.sh'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.xform-command }}

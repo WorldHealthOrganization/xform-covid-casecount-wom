@@ -1,0 +1,35 @@
+# Run hourly at minute 52
+on:
+  workflow_dispatch:
+    inputs:
+  schedule:
+    - cron: "52 * * * *"
+
+jobs:
+  run-xform:
+    runs-on: ubuntu-latest
+    name: Run Transformer
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Run Xform
+        uses: ./.github/actions/run-xform
+        with:
+          xform-command: '${GITHUB_WORKSPACE}/src/xform.sh'
+      - name: Validate CSV Files
+        uses: ./.github/actions/validate-csv
+      - name: Git Push
+        uses: ./.github/actions/git-push
+        with:
+          push-dir: 'output'
+      - name: Failure Notification
+        if: failure()
+        run: |
+          curl --request POST \
+          --url https://api.github.com/repos/${{ github.repository }}/issues \
+          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+          --header 'content-type: application/json' \
+          --data '{
+            "title": "GitHub Action FAILED",
+            "body": "This is an automated issue. See repo actions for details."
+            }'

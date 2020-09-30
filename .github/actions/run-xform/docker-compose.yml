@@ -1,0 +1,9 @@
+version: '2'
+services:
+  runner:
+    build: .
+    command: '$${GITHUB_WORKSPACE}/src/xform.sh'
+    environment:
+      - GITHUB_WORKSPACE=/github/workspace
+    volumes:
+      - ../../../:/github/workspace

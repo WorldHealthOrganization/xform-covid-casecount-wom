@@ -1,0 +1,12 @@
+name: 'GIT Push'
+description: 'Pushes changes to master.'
+inputs:
+  push-dir:
+    description: 'The relative directory path under GITHUB_WORKSPACE to push (e.g., "output", "docs", ".", "other/dir").'
+    required: true
+    default: 'output'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.push-dir }}

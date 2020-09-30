@@ -1,0 +1,124 @@
+region,cases,deaths,recovered
+China,80790,3158,61617
+Italy,12462,827,1045
+Iran,9000,354,2959
+S. Korea,7755,60,288
+France,2281,48,12
+Spain,2277,55,183
+Germany,1908,3,25
+USA,1301,38,15
+Diamond Princess,696,7,325
+Switzerland,652,4,4
+Japan,639,15,118
+Norway,629,NA,1
+Denmark,514,NA,1
+Netherlands,503,5,NA
+Sweden,500,1,1
+UK,456,8,18
+Belgium,314,3,1
+Qatar,262,NA,NA
+Austria,246,NA,4
+Bahrain,195,NA,35
+Singapore,178,NA,96
+Malaysia,149,NA,26
+Australia,127,3,24
+Hong Kong,126,3,60
+Canada,109,1,9
+Greece,99,NA,NA
+Israel,97,NA,4
+Czechia,94,NA,NA
+Iceland,85,NA,1
+UAE,74,NA,17
+Kuwait,72,NA,2
+Iraq,71,7,15
+San Marino,62,2,NA
+India,62,NA,4
+Lebanon,61,2,1
+Egypt,60,1,27
+Thailand,59,1,34
+Finland,59,NA,1
+Portugal,59,NA,NA
+Slovenia,57,NA,NA
+Brazil,52,NA,NA
+Philippines,49,2,2
+Taiwan,48,1,17
+Romania,47,NA,6
+Saudi Arabia,45,NA,1
+Ireland,43,1,NA
+Vietnam,38,NA,16
+Indonesia,34,1,2
+Poland,31,NA,NA
+Palestine,30,NA,NA
+Georgia,24,NA,NA
+Chile,23,NA,NA
+Algeria,20,NA,NA
+Russia,20,NA,3
+Argentina,19,1,NA
+Croatia,19,NA,NA
+Pakistan,19,NA,2
+Oman,18,NA,9
+Ecuador,17,NA,NA
+Estonia,16,NA,NA
+Albania,15,1,NA
+Costa Rica,13,NA,NA
+Hungary,13,NA,NA
+Peru,13,NA,NA
+South Africa,13,NA,NA
+Serbia,12,NA,NA
+Azerbaijan,11,NA,3
+Brunei,11,NA,NA
+Macao,10,NA,10
+Latvia,10,NA,1
+Slovakia,10,NA,NA
+Belarus,9,NA,3
+Colombia,9,NA,NA
+Panama,8,1,NA
+Mexico,8,NA,4
+Maldives,8,NA,NA
+Bulgaria,7,1,NA
+Afghanistan,7,NA,NA
+Luxembourg,7,NA,NA
+North Macedonia,7,NA,NA
+Tunisia,7,NA,NA
+Bosnia and Herzegovina,7,NA,NA
+Morocco,6,1,NA
+Cyprus,6,NA,NA
+Malta,6,NA,NA
+Dominican Republic,5,NA,NA
+New Zealand,5,NA,NA
+French Guiana,5,NA,NA
+Paraguay,5,NA,NA
+Senegal,4,NA,1
+Cambodia,3,NA,1
+Lithuania,3,NA,NA
+Bangladesh,3,NA,NA
+Martinique,3,NA,NA
+Moldova,3,NA,NA
+Nigeria,2,NA,NA
+Sri Lanka,2,NA,1
+Bolivia,2,NA,NA
+Burkina Faso,2,NA,NA
+Cameroon,2,NA,NA
+Channel Islands,2,NA,NA
+Faeroe Islands,2,NA,NA
+Honduras,2,NA,NA
+Jamaica,2,NA,NA
+Saint Martin,2,NA,NA
+Andorra,1,NA,NA
+Armenia,1,NA,NA
+Jordan,1,NA,NA
+Monaco,1,NA,NA
+Nepal,1,NA,1
+Ukraine,1,NA,NA
+Bhutan,1,NA,NA
+Ivory Coast,1,NA,NA
+DRC,1,NA,NA
+Gibraltar,1,NA,1
+Vatican City,1,NA,NA
+Liechtenstein,1,NA,NA
+Mongolia,1,NA,NA
+Réunion,1,NA,NA
+St. Barth,1,NA,NA
+Togo,1,NA,NA
+Turkey,1,NA,NA
+Total:,126061,4616,67057

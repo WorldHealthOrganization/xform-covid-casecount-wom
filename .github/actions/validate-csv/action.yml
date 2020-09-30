@@ -1,0 +1,5 @@
+name: 'Validate the CSV output from the transformer.'
+description: ''
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

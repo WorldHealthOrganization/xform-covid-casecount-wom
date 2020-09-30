@@ -1,0 +1,216 @@
+region,cases,deaths,recovered
+Afghanistan,6785,165,NA
+Albania,938,31,NA
+Algeria,7049,549,NA
+Andorra,761,50,NA
+Angola,49,2,NA
+Anguilla,3,NA,NA
+Antigua and Barbuda,25,3,NA
+Argentina,8123,376,NA
+Armenia,4630,58,NA
+Aruba,101,3,NA
+Australia,7045,98,NA
+Austria,16226,628,NA
+Azerbaijan,3285,39,NA
+Bahamas,96,11,NA
+Bahrain,6986,11,NA
+Bangladesh,22868,335,NA
+Barbados,87,7,NA
+Belarus,29812,167,NA
+Belgium,55304,9044,NA
+Belize,18,2,NA
+Benin,339,2,NA
+Bermuda,124,9,NA
+Bhutan,20,NA,NA
+Bolivia,3900,163,NA
+Bosnia and Herzegovina,2286,130,NA
+Botswana,24,1,NA
+Brazil,244878,16281,NA
+British Virgin Islands,7,1,NA
+Brunei,141,1,NA
+Bulgaria,2208,107,NA
+Burkina Faso,791,51,NA
+Burundi,36,1,NA
+Cabo Verde,325,2,NA
+Cambodia,122,NA,NA
+Cameroon,3414,139,NA
+Canada,77137,5768,NA
+CAR,290,NA,NA
+Caribbean Netherlands,6,NA,NA
+Cayman Islands,93,1,NA
+Chad,495,51,NA
+Channel Islands,553,43,NA
+Chile,44255,456,NA
+China,82953,4633,NA
+Colombia,15758,578,NA
+Comoros,11,1,NA
+Congo,407,15,NA
+Costa Rica,858,9,NA
+Croatia,2226,94,NA
+Cuba,1870,79,NA
+Curaçao,16,1,NA
+Cyprus,915,17,NA
+Czechia,8539,296,NA
+Denmark,10917,545,NA
+Diamond Princess,712,13,NA
+Djibouti,1471,6,NA
+Dominica,16,NA,NA
+Dominican Republic,12444,431,NA
+DRC,1478,58,NA
+Ecuador,32966,2706,NA
+Egypt,12377,630,NA
+El Salvador,1352,28,NA
+Equatorial Guinea,691,7,NA
+Eritrea,39,NA,NA
+Estonia,1778,63,NA
+Eswatini,201,2,NA
+Ethiopia,336,5,NA
+Faeroe Islands,187,NA,NA
+Falkland Islands,13,NA,NA
+Fiji,18,NA,NA
+Finland,6333,297,NA
+France,179715,28076,NA
+French Guiana,200,1,NA
+French Polynesia,60,NA,NA
+Gabon,1366,10,NA
+Gambia,23,1,NA
+Georgia,694,12,NA
+Germany,176826,8084,NA
+Ghana,5694,28,NA
+Gibraltar,147,NA,NA
+Greece,2822,163,NA
+Greenland,11,NA,NA
+Grenada,21,NA,NA
+Guadeloupe,155,13,NA
+Guatemala,1798,33,NA
+Guinea,2731,15,NA
+Guinea-Bissau,1008,3,NA
+Guyana,121,10,NA
+Haiti,473,20,NA
+Honduras,2567,138,NA
+Hong Kong,1055,4,NA
+Hungary,3504,456,NA
+Iceland,1802,10,NA
+India,96661,3054,NA
+Indonesia,17609,1161,NA
+Iran,120900,7016,NA
+Iraq,3471,124,NA
+Ireland,24125,1538,NA
+Isle of Man,334,23,NA
+Israel,16630,273,NA
+Italy,225328,31879,NA
+Ivory Coast,2089,27,NA
+Jamaica,517,9,NA
+Japan,16268,738,NA
+Jordan,620,9,NA
+Kazakhstan,6266,34,NA
+Kenya,881,48,NA
+Kuwait,14947,112,NA
+Kyrgyzstan,1189,13,NA
+Laos,19,NA,NA
+Latvia,999,19,NA
+Lebanon,922,26,NA
+Lesotho,1,NA,NA
+Liberia,226,21,NA
+Libya,64,3,NA
+Liechtenstein,82,1,NA
+Lithuania,1539,58,NA
+Luxembourg,3940,106,NA
+Macao,45,NA,NA
+Madagascar,303,NA,NA
+Malawi,68,3,NA
+Malaysia,6916,112,NA
+Maldives,1081,4,NA
+Mali,855,50,NA
+Malta,550,6,NA
+Martinique,191,14,NA
+Mauritania,68,3,NA
+Mauritius,332,10,NA
+Mayotte,1338,17,NA
+Mexico,49343,5109,NA
+Moldova,6021,212,NA
+Monaco,96,4,NA
+Mongolia,131,NA,NA
+Montenegro,324,9,NA
+Montserrat,11,1,NA
+Morocco,6883,191,NA
+Mozambique,139,NA,NA
+MS Zaandam,9,2,NA
+Myanmar,186,6,NA
+Namibia,16,NA,NA
+Nepal,349,NA,NA
+Netherlands,44009,5673,NA
+New Caledonia,18,NA,NA
+New Zealand,1498,21,NA
+Nicaragua,25,8,NA
+Niger,902,54,NA
+Nigeria,5972,186,NA
+North Macedonia,1798,102,NA
+Norway,8244,232,NA
+Oman,5171,23,NA
+Pakistan,40857,876,NA
+Palestine,385,2,NA
+Panama,9473,271,NA
+Papua New Guinea,8,NA,NA
+Paraguay,781,11,NA
+Peru,92067,2684,NA
+Philippines,12549,822,NA
+Poland,18631,925,NA
+Portugal,29031,1221,NA
+Qatar,32829,14,NA
+Réunion,444,NA,NA
+Romania,16878,1106,NA
+Russia,282991,2638,NA
+Rwanda,295,NA,NA
+S. Korea,11050,262,NA
+Saint Kitts and Nevis,15,NA,NA
+Saint Lucia,18,NA,NA
+Saint Martin,39,3,NA
+Saint Pierre Miquelon,1,NA,NA
+San Marino,652,41,NA
+Sao Tome and Principe,243,7,NA
+Saudi Arabia,55249,312,NA
+Senegal,2473,25,NA
+Serbia,10634,229,NA
+Seychelles,11,NA,NA
+Sierra Leone,496,31,NA
+Singapore,27894,21,NA
+Sint Maarten,76,15,NA
+Slovakia,1491,27,NA
+Slovenia,1465,103,NA
+Somalia,1420,56,NA
+South Africa,15694,276,NA
+South Sudan,272,NA,NA
+Spain,277079,27631,NA
+Sri Lanka,978,9,NA
+St. Barth,6,NA,NA
+St. Vincent Grenadines,17,NA,NA
+Sudan,2436,102,NA
+Suriname,10,1,NA
+Sweden,30018,3664,NA
+Switzerland,30570,1883,NA
+Syria,56,3,NA
+Taiwan,440,7,NA
+Tajikistan,1564,38,NA
+Tanzania,509,21,NA
+Thailand,3028,56,NA
+Timor-Leste,24,NA,NA
+Togo,311,11,NA
+Trinidad and Tobago,116,8,NA
+Tunisia,1040,45,NA
+Turkey,149424,4138,NA
+Turks and Caicos,12,1,NA
+UAE,23568,220,NA
+Uganda,230,NA,NA
+UK,243755,34559,NA
+Ukraine,18262,519,NA
+Uruguay,734,19,NA
+USA,1531465,90963,NA
+Uzbekistan,2761,12,NA
+Vatican City,12,NA,NA
+Venezuela,582,10,NA
+Vietnam,321,NA,NA
+Western Sahara,6,NA,NA
+Yemen,121,18,NA
+Zambia,739,7,NA
+Zimbabwe,44,4,NA

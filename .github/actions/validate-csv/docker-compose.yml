@@ -1,0 +1,8 @@
+version: '2'
+services:
+  runner:
+    build: .
+    environment:
+      - GITHUB_WORKSPACE=/github/workspace
+    volumes:
+      - ../../../:/github/workspace

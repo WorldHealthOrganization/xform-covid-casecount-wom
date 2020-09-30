@@ -1,0 +1,32 @@
+# Name of the organization that publishes the data source
+source_organization: # TODO
+# Web address of the data source
+source_url: # TODO
+# Web address pointing to any indication of a terms of use for the data
+terms_of_use: # TODO
+
+# List of all output files
+# Note that source_organization, source_url, and terms_of_use can be overridden
+#   for each output by providing those fields in the output entries.
+outputs:
+  - description:
+    type: case-counts
+    file: output/admin0/all.csv
+    admin_level: 0
+    schema: https://raw.githubusercontent.com/covid-open-data/data-registry/master/schemas/case-counts/admin0/v1/admin0.json
+  - description:
+    type: case-counts
+    file: output/continents.csv
+    admin_level: continents
+    schema: https://raw.githubusercontent.com/covid-open-data/data-registry/master/schemas/case-counts/continents/v1/continents.json
+  - description:
+    type: case-counts
+    file: output/global.csv
+    admin_level: global
+    schema: https://raw.githubusercontent.com/covid-open-data/data-registry/master/schemas/case-counts/global/v1/global.json
+  - description:
+    type: case-counts
+    file: output/who_regions.csv
+    admin_level: who_regions
+    schema: https://raw.githubusercontent.com/covid-open-data/data-registry/master/schemas/case-counts/who_regions/v1/who_regions.json
+

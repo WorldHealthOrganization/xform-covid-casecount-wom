@@ -1,0 +1,114 @@
+region,cases,deaths,recovered
+China,80739,3120,58742
+Italy,9172,463,724
+S. Korea,7478,53,166
+Iran,7161,237,2394
+France,1412,30,12
+Spain,1229,30,32
+Germany,1191,2,18
+Diamond Princess,696,7,245
+USA,624,22,15
+Japan,530,9,101
+Switzerland,374,2,3
+UK,321,5,18
+Netherlands,321,4,NA
+Sweden,260,NA,1
+Belgium,239,NA,1
+Norway,224,NA,1
+Singapore,160,NA,93
+Austria,131,NA,2
+Malaysia,117,NA,24
+Hong Kong,115,3,59
+Bahrain,109,NA,22
+Australia,93,3,22
+Denmark,90,NA,1
+Greece,84,NA,NA
+Canada,77,1,8
+Iraq,71,7,3
+Iceland,65,NA,1
+Kuwait,65,NA,1
+UAE,59,NA,12
+Egypt,55,1,1
+San Marino,51,2,NA
+Thailand,50,1,33
+Israel,50,NA,4
+India,47,NA,4
+Taiwan,45,1,15
+Lebanon,41,NA,1
+Portugal,39,NA,NA
+Czechia,38,NA,NA
+Finland,33,NA,1
+Vietnam,31,NA,16
+Brazil,25,NA,NA
+Palestine,25,NA,NA
+Philippines,24,1,2
+Ireland,24,NA,NA
+Slovenia,23,NA,NA
+Algeria,20,NA,NA
+Russia,20,NA,3
+Saudi Arabia,20,NA,1
+Indonesia,19,NA,NA
+Oman,18,NA,9
+Qatar,18,NA,NA
+Romania,17,NA,5
+Poland,17,NA,NA
+Pakistan,16,NA,1
+Ecuador,15,NA,NA
+Georgia,15,NA,NA
+Croatia,13,NA,NA
+Chile,13,NA,NA
+Argentina,12,1,NA
+Macao,10,NA,10
+Estonia,10,NA,NA
+Azerbaijan,9,NA,NA
+Costa Rica,9,NA,NA
+Hungary,9,NA,NA
+Peru,9,NA,NA
+Mexico,7,NA,1
+Slovakia,7,NA,NA
+South Africa,7,NA,NA
+Belarus,6,NA,NA
+Latvia,6,NA,1
+Maldives,6,NA,NA
+Dominican Republic,5,NA,NA
+Luxembourg,5,NA,NA
+New Zealand,5,NA,NA
+Tunisia,5,NA,NA
+Bosnia and Herzegovina,5,NA,NA
+French Guiana,5,NA,NA
+Afghanistan,4,NA,NA
+North Macedonia,4,NA,NA
+Senegal,4,NA,1
+Bulgaria,4,NA,NA
+Malta,4,NA,NA
+Bangladesh,3,NA,NA
+Colombia,3,NA,NA
+Cambodia,2,NA,1
+Morocco,2,NA,NA
+Nigeria,2,NA,NA
+Albania,2,NA,NA
+Cameroon,2,NA,NA
+Cyprus,2,NA,NA
+Faeroe Islands,2,NA,NA
+Martinique,2,NA,NA
+Saint Martin,2,NA,NA
+Serbia,2,NA,NA
+Andorra,1,NA,NA
+Armenia,1,NA,NA
+Jordan,1,NA,NA
+Lithuania,1,NA,NA
+Monaco,1,NA,NA
+Nepal,1,NA,1
+Sri Lanka,1,NA,1
+Ukraine,1,NA,NA
+Bhutan,1,NA,NA
+Brunei,1,NA,NA
+Channel Islands,1,NA,NA
+Gibraltar,1,NA,1
+Vatican City,1,NA,NA
+Liechtenstein,1,NA,NA
+Moldova,1,NA,NA
+Paraguay,1,NA,NA
+St. Barth,1,NA,NA
+Togo,1,NA,NA
+Total:,114230,4005,62834

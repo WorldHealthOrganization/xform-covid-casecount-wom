@@ -1,0 +1,11 @@
+version: '2'
+services:
+  runner:
+    build: .
+    command: 'output'
+    environment:
+      - GITHUB_WORKSPACE=/github/workspace
+      - SKIP_COMMIT=1
+      - SKIP_PUSH=1
+    volumes:
+      - ../../../:/github/workspace

@@ -1,0 +1,208 @@
+region,cases,deaths,recovered
+USA,244230,5883,10403
+Italy,115242,13915,18278
+Spain,112065,10348,26743
+Germany,84794,1107,22440
+France,59105,5387,12428
+Iran,50468,3160,16711
+UK,33718,2921,135
+Switzerland,18827,536,4013
+Turkey,18135,356,415
+Belgium,15348,1011,2495
+Netherlands,14697,1339,250
+Canada,11283,173,1979
+Austria,11129,158,1749
+S. Korea,9976,169,5828
+Portugal,9034,209,68
+Brazil,8044,324,127
+Israel,6857,36,338
+Sweden,5568,308,103
+Australia,5314,28,585
+Norway,5147,50,32
+Czechia,3858,44,67
+Ireland,3849,98,5
+Russia,3548,30,235
+Chile,3404,18,335
+Denmark,3386,123,1089
+Ecuador,3163,120,65
+Malaysia,3116,50,767
+Poland,2946,57,56
+Romania,2738,115,267
+Philippines,2633,107,51
+India,2543,72,191
+Japan,2495,62,472
+Luxembourg,2487,30,80
+Pakistan,2421,34,125
+Saudi Arabia,1885,21,328
+Thailand,1875,15,505
+Indonesia,1790,170,112
+Greece,1544,53,61
+Finland,1518,19,300
+Panama,1475,37,9
+South Africa,1462,5,50
+Peru,1414,55,537
+Dominican Republic,1380,60,16
+Mexico,1378,37,35
+Iceland,1319,4,284
+Argentina,1265,36,256
+Serbia,1171,31,42
+Colombia,1161,19,55
+Singapore,1049,4,266
+UAE,1024,8,96
+Croatia,1011,7,88
+Algeria,986,86,61
+Qatar,949,3,72
+Ukraine,897,22,19
+Slovenia,897,17,70
+Egypt,865,58,201
+Estonia,858,11,45
+Hong Kong,802,4,154
+New Zealand,797,1,92
+Iraq,772,54,202
+Diamond Princess,712,11,619
+Morocco,708,44,31
+Armenia,663,7,33
+Lithuania,649,9,7
+Bahrain,643,4,381
+Hungary,585,21,42
+Bosnia and Herzegovina,533,16,20
+Moldova,505,6,23
+Lebanon,494,16,46
+Latvia,458,NA,31
+Bulgaria,457,10,25
+Tunisia,455,14,5
+Kazakhstan,435,3,27
+Andorra,428,15,10
+Slovakia,426,1,5
+Azerbaijan,400,5,26
+Costa Rica,396,2,6
+North Macedonia,384,11,17
+Cyprus,356,10,28
+Uruguay,350,4,62
+Kuwait,342,NA,81
+Taiwan,339,5,50
+Réunion,308,NA,40
+Cameroon,306,7,10
+Belarus,304,4,53
+Jordan,299,5,45
+Burkina Faso,288,16,50
+Albania,277,16,76
+Afghanistan,273,6,10
+San Marino,245,30,21
+Cuba,233,6,13
+Vietnam,233,NA,75
+Oman,231,1,57
+Honduras,219,14,3
+Uzbekistan,205,2,25
+Ghana,204,5,31
+Malta,196,NA,2
+Senegal,195,1,55
+Ivory Coast,194,1,15
+Channel Islands,193,3,NA
+Nigeria,184,2,20
+Faeroe Islands,177,NA,81
+Mauritius,169,7,NA
+Palestine,161,1,18
+Sri Lanka,151,4,21
+Venezuela,146,5,43
+Montenegro,144,2,NA
+Martinique,138,3,27
+DRC,134,13,3
+Georgia,134,NA,26
+Brunei,133,1,56
+Guadeloupe,128,6,24
+Bolivia,123,8,1
+Mayotte,116,1,10
+Kyrgyzstan,116,NA,5
+Kenya,110,3,4
+Cambodia,110,NA,34
+Niger,98,5,NA
+Isle of Man,95,1,NA
+Trinidad and Tobago,94,5,1
+Gibraltar,88,NA,46
+Rwanda,84,NA,NA
+Paraguay,77,3,2
+Liechtenstein,75,NA,NA
+Monaco,60,1,2
+Aruba,60,NA,1
+Madagascar,59,NA,NA
+Bangladesh,56,6,25
+Guinea,52,NA,NA
+French Guiana,51,NA,15
+Jamaica,47,3,2
+Guatemala,47,1,12
+Barbados,46,NA,NA
+Uganda,45,NA,NA
+El Salvador,41,2,NA
+Macao,41,NA,10
+Djibouti,40,NA,NA
+Togo,39,2,17
+Zambia,39,1,NA
+French Polynesia,37,NA,NA
+Mali,36,3,NA
+Bermuda,35,NA,11
+Ethiopia,29,NA,3
+Cayman Islands,28,1,NA
+Bahamas,24,1,1
+Congo,22,2,2
+Saint Martin,22,1,2
+Eritrea,22,NA,NA
+Gabon,21,1,NA
+Myanmar,20,1,NA
+Tanzania,20,1,2
+Guyana,19,4,NA
+Maldives,19,NA,13
+Sint Maarten,18,1,6
+New Caledonia,18,NA,1
+Syria,16,2,NA
+Haiti,16,NA,1
+Equatorial Guinea,15,NA,1
+Mongolia,14,NA,2
+Namibia,14,NA,3
+Benin,13,NA,1
+Saint Lucia,13,NA,1
+Dominica,12,NA,NA
+Curaçao,11,1,3
+Libya,11,1,NA
+Greenland,10,NA,2
+Grenada,10,NA,NA
+Laos,10,NA,NA
+Mozambique,10,NA,NA
+Seychelles,10,NA,NA
+Suriname,10,NA,NA
+MS Zaandam,9,2,NA
+Zimbabwe,9,1,NA
+Antigua and Barbuda,9,NA,NA
+Guinea-Bissau,9,NA,NA
+Saint Kitts and Nevis,9,NA,NA
+Eswatini,9,NA,NA
+Angola,8,2,1
+Sudan,8,2,2
+Chad,8,NA,NA
+Fiji,7,NA,NA
+Vatican City,7,NA,NA
+Cabo Verde,6,1,NA
+Mauritania,6,1,2
+Nepal,6,NA,1
+Liberia,6,NA,NA
+St. Barth,6,NA,1
+Nicaragua,5,1,NA
+Bhutan,5,NA,1
+Montserrat,5,NA,NA
+Somalia,5,NA,1
+Turks and Caicos,5,NA,NA
+Botswana,4,1,NA
+Gambia,4,1,2
+Anguilla,3,NA,NA
+Belize,3,NA,NA
+British Virgin Islands,3,NA,NA
+Burundi,3,NA,NA
+CAR,3,NA,NA
+Malawi,3,NA,NA
+Caribbean Netherlands,2,NA,NA
+St. Vincent Grenadines,2,NA,1
+Sierra Leone,2,NA,NA
+Papua New Guinea,1,NA,NA
+Timor-Leste,1,NA,NA
+China,81589,3318,76408
+Total:,1014296,52982,212018

@@ -1,0 +1,206 @@
+region,cases,deaths,recovered
+USA,187321,3850,6461
+Italy,105792,12428,15729
+Spain,95923,8464,19259
+Germany,71808,775,16100
+France,52128,3523,9444
+Iran,44605,2898,14656
+UK,25150,1789,135
+Switzerland,16605,433,1823
+Turkey,13531,214,243
+Belgium,12775,705,1696
+Netherlands,12595,1039,250
+Austria,10180,128,1095
+S. Korea,9786,162,5408
+Canada,8612,101,1242
+Portugal,7443,160,43
+Brazil,5717,201,127
+Israel,5358,20,224
+Australia,4763,20,345
+Norway,4641,39,13
+Sweden,4435,180,16
+Czechia,3308,31,45
+Ireland,3235,71,5
+Denmark,2860,90,1
+Malaysia,2766,43,537
+Chile,2738,12,156
+Russia,2337,17,121
+Poland,2311,33,7
+Ecuador,2302,79,58
+Romania,2245,82,220
+Luxembourg,2178,23,80
+Philippines,2084,88,49
+Japan,1953,56,424
+Pakistan,1938,26,76
+Thailand,1651,10,342
+Saudi Arabia,1563,10,165
+Indonesia,1528,136,81
+Finland,1418,17,10
+India,1397,35,123
+South Africa,1353,5,31
+Greece,1314,49,52
+Panama,1181,30,9
+Iceland,1135,2,198
+Dominican Republic,1109,51,5
+Mexico,1094,28,35
+Peru,1065,30,394
+Argentina,1054,27,240
+Singapore,926,3,240
+Colombia,906,16,31
+Serbia,900,23,42
+Croatia,867,6,67
+Slovenia,802,15,10
+Qatar,781,2,62
+Estonia,745,4,26
+Algeria,716,44,46
+Hong Kong,714,4,128
+Diamond Princess,712,10,603
+Egypt,710,46,157
+Iraq,694,50,170
+UAE,664,6,61
+New Zealand,647,1,74
+Ukraine,645,17,10
+Morocco,617,36,24
+Bahrain,567,4,295
+Lithuania,537,8,7
+Armenia,532,3,30
+Hungary,492,16,37
+Lebanon,470,12,37
+Bosnia and Herzegovina,420,13,17
+Bulgaria,399,8,17
+Latvia,398,NA,1
+Tunisia,394,10,3
+Andorra,376,12,10
+Slovakia,363,NA,3
+Moldova,353,4,18
+Costa Rica,347,2,4
+Kazakhstan,343,2,24
+Uruguay,338,1,41
+North Macedonia,329,9,12
+Taiwan,322,5,39
+Azerbaijan,298,5,26
+Kuwait,289,NA,73
+Jordan,274,5,30
+Cyprus,262,8,23
+Burkina Faso,261,14,32
+Réunion,247,NA,1
+Albania,243,15,52
+San Marino,236,26,13
+Vietnam,212,NA,58
+Cameroon,193,6,5
+Oman,192,1,34
+Cuba,186,6,8
+Ivory Coast,179,1,7
+Senegal,175,NA,40
+Afghanistan,174,4,5
+Uzbekistan,172,2,7
+Faeroe Islands,169,NA,74
+Malta,169,NA,2
+Ghana,161,5,31
+Belarus,152,1,47
+Mauritius,143,5,NA
+Sri Lanka,143,2,17
+Honduras,141,7,3
+Channel Islands,141,3,NA
+Venezuela,135,3,39
+Nigeria,135,2,8
+Brunei,129,1,45
+Martinique,128,3,27
+Palestine,119,1,18
+Guadeloupe,114,4,22
+Georgia,110,NA,21
+Montenegro,109,2,NA
+Cambodia,109,NA,23
+Bolivia,107,6,NA
+Kyrgyzstan,107,NA,3
+DRC,98,8,2
+Mayotte,94,1,10
+Trinidad and Tobago,87,3,1
+Rwanda,75,NA,NA
+Gibraltar,69,NA,34
+Liechtenstein,68,NA,NA
+Paraguay,65,3,1
+Isle of Man,60,NA,NA
+Kenya,59,1,1
+Madagascar,57,NA,NA
+Aruba,55,NA,1
+Monaco,52,1,2
+Bangladesh,51,5,25
+French Guiana,51,NA,15
+Uganda,44,NA,NA
+Macao,41,NA,10
+Jamaica,38,2,2
+Guatemala,38,1,12
+French Polynesia,37,NA,NA
+Zambia,36,NA,NA
+Niger,34,3,NA
+Togo,34,1,10
+Barbados,34,NA,NA
+El Salvador,32,1,NA
+Bermuda,32,NA,10
+Djibouti,30,NA,NA
+Mali,28,2,NA
+Ethiopia,26,NA,2
+Guinea,22,NA,NA
+Tanzania,19,1,1
+Congo,19,NA,NA
+Maldives,18,NA,13
+Gabon,16,1,NA
+New Caledonia,16,NA,NA
+Myanmar,15,1,NA
+Saint Martin,15,1,2
+Equatorial Guinea,15,NA,1
+Eritrea,15,NA,NA
+Haiti,15,NA,1
+Cayman Islands,14,1,NA
+Bahamas,14,NA,1
+Saint Lucia,13,NA,1
+Guyana,12,2,NA
+Dominica,12,NA,NA
+Mongolia,12,NA,2
+Curaçao,11,1,2
+Namibia,11,NA,2
+Syria,10,2,NA
+Greenland,10,NA,2
+Libya,10,NA,1
+Seychelles,10,NA,NA
+Benin,9,NA,1
+Grenada,9,NA,NA
+Laos,9,NA,NA
+Suriname,9,NA,NA
+Eswatini,9,NA,NA
+Zimbabwe,8,1,NA
+Guinea-Bissau,8,NA,NA
+Mozambique,8,NA,NA
+Saint Kitts and Nevis,8,NA,NA
+Angola,7,2,1
+Sudan,7,2,1
+Antigua and Barbuda,7,NA,NA
+Chad,7,NA,NA
+Cabo Verde,6,1,NA
+Mauritania,6,1,2
+Vatican City,6,NA,NA
+St. Barth,6,NA,1
+Sint Maarten,6,NA,NA
+Nicaragua,5,1,NA
+Nepal,5,NA,1
+Fiji,5,NA,NA
+Montserrat,5,NA,NA
+Somalia,5,NA,1
+Turks and Caicos,5,NA,NA
+Botswana,4,1,NA
+Gambia,4,1,NA
+Bhutan,4,NA,NA
+Belize,3,NA,NA
+British Virgin Islands,3,NA,NA
+CAR,3,NA,NA
+Liberia,3,NA,NA
+MS Zaandam,2,NA,NA
+Anguilla,2,NA,NA
+Burundi,2,NA,NA
+Papua New Guinea,1,NA,NA
+St. Vincent Grenadines,1,NA,1
+Sierra Leone,1,NA,NA
+Timor-Leste,1,NA,NA
+China,81518,3305,76052
+Total:,856891,42097,177141

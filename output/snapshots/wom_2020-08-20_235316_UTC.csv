@@ -1,0 +1,224 @@
+region,cases,deaths,recovered
+USA,5744598,177337,3085806
+Brazil,3505097,112423,2653407
+India,2904329,54975,2157941
+Russia,942106,16099,755513
+South Africa,599940,12618,497169
+Peru,567059,27034,380730
+Mexico,537031,58481,367537
+Colombia,513719,16183,339124
+Chile,391849,10671,366063
+Spain,387985,28813,N/A
+Iran,352558,20264,304236
+UK,322280,41403,N/A
+Argentina,320884,6517,233651
+Saudi Arabia,303973,3548,275476
+Pakistan,290958,6209,272804
+Bangladesh,287959,3822,168991
+Italy,256118,35418,204686
+Turkey,254520,6058,234797
+Germany,231284,9324,204800
+France,229814,30480,84065
+Iraq,192797,6208,137200
+Philippines,178022,2883,114114
+Indonesia,147211,6418,100674
+Canada,123873,9054,110288
+Qatar,116224,193,112924
+Ecuador,105508,6200,87660
+Bolivia,105050,4233,39965
+Kazakhstan,103815,1415,86450
+Israel,99599,795,74579
+Ukraine,98537,2184,50441
+Egypt,97025,5212,63462
+Dominican Republic,89010,1505,57734
+Sweden,85810,5805,N/A
+Oman,83769,609,78386
+Panama,83754,1827,58274
+Belgium,79479,9969,18078
+Kuwait,78767,509,70642
+Romania,74963,3154,34196
+Belarus,69950,627,67929
+Guatemala,65983,2506,54351
+UAE,65802,369,58153
+Netherlands,65054,6191,N/A
+Poland,59378,1925,40481
+Japan,58501,1144,45266
+Singapore,56099,27,53119
+Portugal,54992,1788,40264
+Honduras,52298,1608,7867
+Nigeria,50964,992,37569
+Bahrain,48303,179,44628
+Morocco,47638,775,32806
+Ghana,43260,261,41276
+Kyrgyzstan,42507,1498,35486
+Armenia,42319,836,35476
+Algeria,40258,1411,28281
+Switzerland,39026,1998,33900
+Afghanistan,37856,1385,27681
+Uzbekistan,37547,252,33261
+Venezuela,36868,303,25416
+Ethiopia,35836,620,13536
+Azerbaijan,34759,510,32511
+Moldova,31937,921,21885
+Kenya,31441,516,17869
+Costa Rica,31075,333,9939
+Serbia,30209,689,27908
+Nepal,29645,126,17964
+Ireland,27676,1776,23364
+Austria,24431,729,21093
+Australia,24236,463,17854
+El Salvador,23964,640,11558
+Czechia,21045,406,15886
+Cameroon,18762,408,16540
+Palestine,17989,120,10682
+Ivory Coast,17249,112,14611
+Bosnia and Herzegovina,17029,515,10881
+S. Korea,16346,307,14063
+Denmark,16056,621,13769
+Bulgaria,14962,532,10087
+Madagascar,14154,177,13038
+North Macedonia,13194,554,9752
+Sudan,12582,812,6456
+Senegal,12559,261,8050
+Paraguay,11133,165,6582
+Lebanon,10952,113,3040
+Zambia,10372,274,9126
+Norway,10197,264,9150
+DRC,9757,247,8895
+Libya,9463,169,1018
+Malaysia,9240,125,8932
+Guinea,8876,53,7628
+French Guiana,8743,54,8189
+Gabon,8319,53,6614
+Tajikistan,8203,66,7006
+Haiti,7997,196,5447
+Albania,7967,238,3986
+Greece,7934,235,3804
+Finland,7842,334,7100
+Luxembourg,7637,124,6903
+Croatia,7329,168,5472
+Mauritania,6848,158,6123
+Maldives,6370,24,3915
+Zimbabwe,5745,151,4525
+Djibouti,5374,59,5216
+Malawi,5282,165,2883
+Hungary,5046,609,3678
+Namibia,4912,41,2442
+Equatorial Guinea,4892,83,2713
+CAR,4679,61,1755
+Hong Kong,4605,73,3827
+Nicaragua,4311,133,2913
+Montenegro,4229,81,3186
+Eswatini,4110,81,2643
+Congo,3850,77,1625
+Cuba,3565,88,2894
+Thailand,3389,58,3218
+Cabo Verde,3368,37,2462
+Suriname,3366,55,2383
+Somalia,3265,93,2396
+Mayotte,3160,39,2964
+Mozambique,3115,20,1380
+Slovakia,3102,33,2014
+Sri Lanka,2918,11,2765
+Rwanda,2717,11,1705
+Mali,2667,125,1993
+Tunisia,2543,63,1397
+Slovenia,2536,129,2079
+Lithuania,2528,82,1747
+South Sudan,2494,47,1290
+Gambia,2401,81,435
+Estonia,2227,63,2009
+Guinea-Bissau,2149,33,1015
+Benin,2095,39,1705
+Angola,2044,93,742
+Iceland,2040,10,1913
+Syria,2008,82,460
+Sierra Leone,1969,69,1536
+Yemen,1899,541,1058
+Uganda,1750,19,1194
+New Zealand,1654,22,1531
+Bahamas,1531,22,209
+Malta,1510,9,802
+Uruguay,1506,41,1242
+Jordan,1498,11,1261
+Cyprus,1395,20,878
+Aruba,1387,6,277
+Georgia,1370,17,1108
+Latvia,1327,33,1093
+Botswana,1308,3,136
+Burkina Faso,1297,55,1034
+Liberia,1284,82,803
+Togo,1212,27,878
+Jamaica,1192,14,772
+Niger,1169,69,1082
+Andorra,1024,53,875
+Vietnam,1007,25,542
+Lesotho,996,30,423
+Réunion,996,5,657
+Chad,972,76,869
+Sao Tome and Principe,888,15,829
+Guyana,846,29,399
+Trinidad and Tobago,767,12,140
+Diamond Princess,712,13,651
+San Marino,704,42,657
+Channel Islands,613,48,545
+Belize,605,5,38
+Guadeloupe,510,15,289
+Tanzania,509,21,183
+Taiwan,486,7,457
+Burundi,422,1,336
+Comoros,417,7,396
+Myanmar,399,6,333
+Faeroe Islands,383,NA,274
+Papua New Guinea,361,4,198
+Sint Maarten,348,17,133
+Mauritius,346,10,334
+Isle of Man,336,24,312
+Martinique,336,16,98
+Turks and Caicos,327,2,56
+Eritrea,306,NA,274
+Mongolia,298,NA,281
+Cambodia,273,NA,253
+Gibraltar,229,NA,200
+French Polynesia,211,NA,68
+Cayman Islands,205,1,202
+Bermuda,166,9,147
+Barbados,156,7,123
+Monaco,150,4,115
+Bhutan,150,NA,105
+Brunei,143,3,139
+Seychelles,132,NA,126
+Saint Martin,121,5,49
+Liechtenstein,99,1,88
+Antigua and Barbuda,94,3,88
+St. Vincent Grenadines,58,NA,56
+Macao,46,NA,46
+Curaçao,36,1,31
+Fiji,28,1,20
+Saint Lucia,26,NA,25
+Timor-Leste,25,NA,25
+Grenada,24,NA,24
+New Caledonia,23,NA,22
+Laos,22,NA,19
+Dominica,18,NA,18
+Saint Kitts and Nevis,17,NA,17
+St. Barth,16,NA,9
+Greenland,14,NA,14
+Montserrat,13,1,12
+Caribbean Netherlands,13,NA,7
+Falkland Islands,13,NA,13
+Vatican City,12,NA,12
+British Virgin Islands,11,1,8
+Western Sahara,10,1,8
+MS Zaandam,9,2,NA
+Saint Pierre Miquelon,5,NA,1
+Anguilla,3,NA,3
+China,84895,4634,79745
+Total:,6775458,253845,3777454
+Total:,5571641,183908,4144824
+Total:,6023765,126475,4716917
+Total:,3270316,204505,1952841
+Total:,1162148,27018,884451
+Total:,26513,490,19693
+Total:,721,15,651
+Total:,22830562,796256,15496831
