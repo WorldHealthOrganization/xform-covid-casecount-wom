@@ -13,20 +13,20 @@ outputs:
     type: case-counts
     file: output/admin0/all.csv
     admin_level: 0
-    schema: https://raw.githubusercontent.com/covid-open-data/data-registry/master/schemas/case-counts/admin0/v1/admin0.json
+    schema: https://raw.githubusercontent.com/WorldHealthOrganization/covid-data-registry/master/schemas/case-counts/admin0/v1/admin0.json
   - description:
     type: case-counts
     file: output/continents.csv
     admin_level: continents
-    schema: https://raw.githubusercontent.com/covid-open-data/data-registry/master/schemas/case-counts/continents/v1/continents.json
+    schema: https://raw.githubusercontent.com/WorldHealthOrganization/covid-data-registry/master/schemas/case-counts/continents/v1/continents.json
   - description:
     type: case-counts
     file: output/global.csv
     admin_level: global
-    schema: https://raw.githubusercontent.com/covid-open-data/data-registry/master/schemas/case-counts/global/v1/global.json
+    schema: https://raw.githubusercontent.com/WorldHealthOrganization/covid-data-registry/master/schemas/case-counts/global/v1/global.json
   - description:
     type: case-counts
     file: output/who_regions.csv
     admin_level: who_regions
-    schema: https://raw.githubusercontent.com/covid-open-data/data-registry/master/schemas/case-counts/who_regions/v1/who_regions.json
+    schema: https://raw.githubusercontent.com/WorldHealthOrganization/covid-data-registry/master/schemas/case-counts/who_regions/v1/who_regions.json
 
