@@ -1,5 +1,5 @@
 region,cases,deaths,recovered
-USA,9566770,236979,6158217
+USA,9567543,236997,6171402
 India,8266914,123139,7601429
 Brazil,5554206,160272,4980942
 Russia,1655038,28473,1236033
@@ -29,7 +29,7 @@ Saudi Arabia,348037,5437,334672
 Pakistan,335093,6835,315016
 Israel,315636,2580,303405
 Romania,250704,7153,177361
-Canada,238826,10197,199463
+Canada,240263,10208,200052
 Morocco,225070,3826,187101
 Nepal,176500,984,137992
 Switzerland,176177,2404,80400
@@ -158,16 +158,16 @@ Sierra Leone,2366,74,1802
 Togo,2364,57,1681
 Yemen,2063,601,1375
 New Zealand,1963,25,1857
-Lesotho,1953,44,975
+Lesotho,1961,44,988
 Chad,1499,98,1329
-Liberia,1426,82,1279
+Liberia,1436,82,1283
 Niger,1222,69,1141
 Vietnam,1192,35,1065
 Curaçao,995,1,698
 Sao Tome and Principe,949,16,904
 San Marino,928,42,721
 Channel Islands,845,48,713
-Sint Maarten,831,22,753
+Sint Maarten,844,22,760
 Diamond Princess,712,13,659
 Gibraltar,707,NA,629
 Turks and Caicos,704,6,689
@@ -187,7 +187,7 @@ Bhutan,354,NA,325
 Mongolia,349,NA,313
 Cambodia,292,NA,283
 Cayman Islands,240,1,221
-Barbados,237,7,221
+Barbados,238,7,222
 Bermuda,206,9,176
 Caribbean Netherlands,153,3,145
 Seychelles,153,NA,149
@@ -195,7 +195,7 @@ Brunei,148,3,143
 Antigua and Barbuda,128,3,117
 Saint Lucia,84,NA,28
 St. Barth,83,NA,67
-St. Vincent Grenadines,75,NA,70
+St. Vincent Grenadines,75,NA,71
 British Virgin Islands,71,1,70
 Dominica,50,NA,33
 Macao,46,NA,46
@@ -217,11 +217,11 @@ Anguilla,3,NA,3
 Marshall Islands,2,NA,NA
 Wallis and Futuna,1,NA,1
 China,86021,4634,81024
-Total:,11416097,354139,7539015
+Total:,11418321,354168,7552798
 Total:,13849258,245850,12348544
 Total:,9741397,296474,8697961
 Total:,10451112,270070,3912730
-Total:,1813782,43461,1481387
+Total:,1813800,43461,1481404
 Total:,38879,979,32694
 Total:,721,15,659
-Total:,47311246,1210988,34012990
+Total:,47313488,1211017,34026790
