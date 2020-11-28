@@ -1,6 +1,6 @@
 region,cases,deaths,recovered
 USA,13454254,271026,7945582
-India,9351224,136238,8758886
+India,9351224,136238,8759969
 Brazil,6238350,171998,5536524
 Russia,2215533,38558,1712174
 France,2196119,51914,159915
@@ -148,7 +148,7 @@ CAR,4913,63,1924
 Aruba,4808,45,4648
 Mali,4567,149,3091
 Somalia,4451,113,3417
-Thailand,3961,60,3790
+Thailand,3966,60,3798
 Gambia,3731,123,3590
 South Sudan,3104,61,2954
 Benin,2974,43,2579
@@ -171,7 +171,7 @@ Sint Maarten,1053,25,936
 Gibraltar,999,5,905
 Sao Tome and Principe,985,17,928
 Mongolia,760,NA,347
-Turks and Caicos,746,6,700
+Turks and Caicos,748,6,705
 Diamond Princess,712,13,659
 Saint Martin,690,12,598
 Burundi,681,1,575
@@ -181,8 +181,8 @@ Comoros,610,7,585
 Monaco,603,3,532
 Eritrea,566,NA,477
 Tanzania,509,21,183
+Mauritius,501,10,443
 Faeroe Islands,500,NA,498
-Mauritius,498,10,440
 Bhutan,395,NA,372
 Isle of Man,369,25,338
 Cambodia,308,NA,299
@@ -190,7 +190,7 @@ Barbados,270,7,249
 Cayman Islands,269,2,249
 Saint Lucia,246,2,109
 Bermuda,242,9,207
-Seychelles,166,NA,159
+Seychelles,173,NA,162
 Caribbean Netherlands,161,3,155
 Brunei,150,3,145
 Antigua and Barbuda,141,4,130
@@ -219,11 +219,11 @@ Wallis and Futuna,3,NA,1
 Samoa,1,NA,NA
 Vanuatu,1,NA,NA
 China,86501,4634,81582
-Total:,15689722,404485,9620755
-Total:,16387581,286836,14601075
+Total:,15689724,404485,9620760
+Total:,16387586,286836,14602166
 Total:,10984770,322864,9834380
 Total:,16730403,382546,6881770
-Total:,2150087,51354,1815896
+Total:,2150097,51354,1815902
 Total:,44770,1014,33030
 Total:,721,15,659
-Total:,61988054,1449114,42787565
+Total:,61988071,1449114,42788667
