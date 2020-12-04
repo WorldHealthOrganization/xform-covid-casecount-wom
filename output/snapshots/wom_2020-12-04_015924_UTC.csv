@@ -1,5 +1,5 @@
 region,cases,deaths,recovered
-USA,14534298,282827,8560293
+USA,14535062,282829,8561398
 India,9571780,139227,9015684
 Brazil,6487516,175307,5725010
 Russia,2375546,41607,1859851
@@ -41,7 +41,7 @@ Jordan,231237,2909,173369
 Serbia,199158,1765,31536
 Ecuador,195884,13612,169804
 UAE,172751,585,157035
-Panama,169339,3114,146576
+Panama,171219,3141,148396
 Bulgaria,155193,4503,57141
 Japan,152827,2213,129241
 Georgia,147636,1387,124568
@@ -101,7 +101,7 @@ Ivory Coast,21389,132,21022
 Latvia,19307,235,1848
 Sudan,18535,1271,10672
 Zambia,17730,357,17102
-Madagascar,17341,251,16657
+Madagascar,17513,255,16657
 Senegal,16217,335,15697
 Mozambique,15918,132,14030
 Angola,15361,352,8244
@@ -141,22 +141,22 @@ Djibouti,5689,61,5591
 Guyana,5528,151,4618
 Martinique,5520,41,98
 Iceland,5448,27,5216
-Suriname,5320,117,5200
+Suriname,5322,117,5203
 Mayotte,5181,49,2964
 Equatorial Guinea,5159,85,5023
+Aruba,4923,45,4733
 CAR,4918,63,1924
-Aruba,4902,45,4718
 Mali,4880,162,3281
 Somalia,4525,121,3480
 Thailand,4039,60,3832
-Gambia,3765,123,3609
-South Sudan,3118,61,2966
-Benin,3055,44,2839
+Gambia,3767,123,3610
+South Sudan,3154,62,2977
+Burkina Faso,3062,68,2679
+Benin,3055,44,2907
 Togo,3039,65,2567
-Burkina Faso,3010,68,2667
 Curaçao,2658,7,1218
 Guinea-Bissau,2441,44,2327
-Sierra Leone,2416,74,1838
+Sierra Leone,2416,74,1840
 Yemen,2239,624,1525
 Lesotho,2145,44,1278
 New Zealand,2069,25,1974
@@ -169,7 +169,7 @@ Vietnam,1361,35,1209
 Liechtenstein,1339,17,1169
 Sint Maarten,1092,25,976
 Gibraltar,1038,5,960
-Sao Tome and Principe,997,17,934
+Sao Tome and Principe,997,17,937
 Mongolia,819,NA,365
 Turks and Caicos,751,6,733
 Saint Martin,717,12,641
@@ -178,7 +178,7 @@ Burundi,692,1,575
 Taiwan,686,7,572
 Papua New Guinea,669,7,597
 Monaco,630,3,570
-Comoros,613,7,586
+Comoros,615,7,590
 Eritrea,594,NA,498
 Tanzania,509,21,183
 Mauritius,508,10,465
@@ -189,14 +189,14 @@ Cambodia,331,NA,304
 Cayman Islands,288,2,257
 Barbados,279,7,255
 Bermuda,272,9,216
-Saint Lucia,261,2,141
+Saint Lucia,262,2,141
 Seychelles,183,NA,162
 Caribbean Netherlands,164,3,158
 Brunei,151,3,145
 St. Barth,147,1,105
 Antigua and Barbuda,144,4,133
+St. Vincent Grenadines,87,NA,80
 Dominica,85,NA,63
-St. Vincent Grenadines,85,NA,80
 British Virgin Islands,72,1,71
 Macao,46,NA,46
 Fiji,42,2,33
@@ -219,11 +219,11 @@ Wallis and Futuna,3,NA,1
 Samoa,2,NA,NA
 Vanuatu,1,NA,1
 China,86567,4634,81667
-Total:,16876462,419830,10317185
+Total:,16879130,419859,10320125
 Total:,17133903,296889,15175152
-Total:,11360882,329243,10140942
+Total:,11360884,329243,10140945
 Total:,17865409,411138,7802380
-Total:,2229924,52932,1891169
+Total:,2230188,52937,1891270
 Total:,45677,1020,33107
 Total:,721,15,706
-Total:,65512978,1511067,45360641
+Total:,65515912,1511101,45363685
