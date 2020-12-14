@@ -1,6 +1,6 @@
 region,cases,deaths,recovered
 USA,16737267,306459,9724439
-India,9884716,143393,9387608
+India,9884716,143393,9388159
 Brazil,6901990,181419,5982953
 Russia,2653928,46941,2106235
 France,2376852,57911,176995
@@ -148,7 +148,7 @@ Equatorial Guinea,5185,85,5058
 Aruba,5049,46,4896
 CAR,4936,63,1924
 Somalia,4579,121,3529
-Thailand,4209,60,3923
+Thailand,4237,60,3940
 Burkina Faso,4030,71,2910
 Gambia,3782,123,3647
 Curaçao,3624,11,1736
@@ -199,8 +199,8 @@ St. Vincent Grenadines,98,NA,81
 Dominica,88,NA,83
 British Virgin Islands,76,1,72
 Grenada,69,NA,41
+Fiji,46,2,38
 Macao,46,NA,46
-Fiji,44,2,35
 Laos,41,NA,33
 New Caledonia,36,NA,32
 Timor-Leste,31,NA,30
@@ -212,18 +212,18 @@ Solomon Islands,17,NA,5
 Saint Pierre Miquelon,14,NA,14
 Montserrat,13,1,12
 Western Sahara,10,1,8
-Anguilla,10,NA,3
+Anguilla,10,NA,4
 MS Zaandam,9,2,7
 Marshall Islands,4,NA,4
 Wallis and Futuna,3,NA,1
 Samoa,2,NA,2
 Vanuatu,1,NA,1
 China,86741,4634,81794
-Total:,19319756,451665,11677250
-Total:,19088316,312278,17268733
+Total:,19319756,451665,11677251
+Total:,19088344,312278,17269301
 Total:,11966242,340036,10595951
 Total:,19831940,457452,9264562
 Total:,2393061,56428,2023832
-Total:,46582,1034,33214
+Total:,46584,1034,33217
 Total:,721,15,706
-Total:,72646618,1618908,50864248
+Total:,72646648,1618908,50864820
