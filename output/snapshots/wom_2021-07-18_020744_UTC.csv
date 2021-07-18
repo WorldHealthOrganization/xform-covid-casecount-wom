@@ -1,5 +1,5 @@
 region,cases,deaths,recovered
-USA,34953916,624713,29369183
+USA,34953937,624715,29369181
 India,31105270,413640,30262233
 Brazil,19342448,541323,17983275
 Russia,5933115,147655,5322345
@@ -170,7 +170,7 @@ Eritrea,6402,30,6043
 Sierra Leone,6166,115,4115
 Burundi,5802,8,773
 Niger,5573,194,5270
-Saint Lucia,5462,87,5243
+Saint Lucia,5470,87,5256
 Liberia,5315,148,2705
 San Marino,5094,90,5002
 Chad,4964,174,4777
@@ -182,13 +182,13 @@ Laos,3295,4,2174
 Liechtenstein,3061,59,2989
 New Zealand,2803,26,2729
 Monaco,2680,33,2563
-Sint Maarten,2659,34,2595
+Sint Maarten,2664,34,2601
 Bermuda,2530,33,2482
 Turks and Caicos,2446,18,2400
 Saint Martin,2433,38,1399
 Bhutan,2411,2,2038
 Sao Tome and Principe,2410,37,2336
-St. Vincent Grenadines,2258,12,2188
+St. Vincent Grenadines,2260,12,2196
 Isle of Man,2074,29,1580
 British Virgin Islands,2024,14,420
 Mauritius,1858,18,1534
@@ -198,7 +198,7 @@ St. Barth,1005,1,462
 Faeroe Islands,921,1,800
 Diamond Princess,712,13,699
 Cayman Islands,622,2,617
-Saint Kitts and Nevis,548,3,471
+Saint Kitts and Nevis,550,3,483
 Tanzania,509,21,183
 Wallis and Futuna,445,7,438
 Brunei,283,3,260
@@ -221,11 +221,11 @@ Samoa,3,NA,3
 Saint Helena,2,NA,2
 Micronesia,1,NA,1
 China,92213,4636,87039
-Total:,41363087,928675,34686453
+Total:,41363125,928677,34686490
 Total:,58833323,839861,55572405
 Total:,34526037,1052003,31923951
 Total:,49690402,1118977,46129982
 Total:,6248648,157655,5427161
 Total:,88075,1355,72089
 Total:,721,15,706
-Total:,190750293,4098541,173812747
+Total:,190750331,4098543,173812784
