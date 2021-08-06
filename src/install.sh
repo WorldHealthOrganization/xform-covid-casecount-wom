@@ -8,7 +8,7 @@ source "${GITHUB_WORKSPACE}/.github/scripts/shutils.sh"
 
 #installAptPackages pkg1 pkg2 pkg3
 
-R -e "remotes::install_github('WorldHealthOrganization/geoutils', upgrade = FALSE)"
+#R -e "remotes::install_github('WorldHealthOrganization/geoutils', upgrade = FALSE)"
 R -e "install.packages('snakecase')"
 
 exit 0
