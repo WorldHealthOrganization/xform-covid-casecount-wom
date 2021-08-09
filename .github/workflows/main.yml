@@ -8,6 +8,8 @@ on:
 jobs:
   run-xform:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     name: Run Transformer
     steps:
       - name: Checkout
