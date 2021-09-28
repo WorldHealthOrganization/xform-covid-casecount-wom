@@ -1,5 +1,5 @@
 region,cases,deaths,recovered
-USA,43940796,709110,33373554
+USA,43942335,709119,33394833
 India,33693148,447406,32948657
 Brazil,21366395,594702,20361191
 UK,7701715,136208,6219111
@@ -162,51 +162,51 @@ Burkina Faso,14183,181,13831
 Nicaragua,13730,203,4225
 Djibouti,12253,162,11838
 Hong Kong,12197,213,11897
-South Sudan,11948,128,11422
+South Sudan,11954,128,11570
 Equatorial Guinea,11806,142,10225
-Iceland,11632,33,11251
+Iceland,11722,33,11348
 Channel Islands,11491,97,11070
 CAR,11371,100,6859
-Saint Lucia,11144,185,8802
+Saint Lucia,11231,186,8874
 Gambia,9930,335,9571
 Yemen,8988,1703,5570
 Barbados,7764,68,6634
-Isle of Man,7427,51,7065
+Isle of Man,7455,51,7096
 Brunei,6700,38,4443
 Eritrea,6694,42,6628
 Sierra Leone,6393,121,4380
 New Caledonia,6379,93,58
 Guinea-Bissau,6099,135,5283
-Niger,5980,201,5735
+Niger,5990,201,5746
 Liberia,5794,283,5458
 Gibraltar,5517,97,5365
 San Marino,5428,91,5310
+Bermuda,5145,62,3613
 Chad,5034,174,4853
-Bermuda,4982,52,3318
-Grenada,4922,120,2859
-Sint Maarten,4213,63,3984
+Grenada,5005,130,3080
+Sint Maarten,4235,66,4012
 New Zealand,4194,27,3945
 Comoros,4128,147,3960
 Saint Martin,3727,55,1399
 Liechtenstein,3445,60,3355
+St. Vincent Grenadines,3359,18,2388
 Sao Tome and Principe,3349,49,2680
-St. Vincent Grenadines,3338,17,2381
-Monaco,3303,33,3242
+Monaco,3306,33,3245
 Dominica,3293,15,2680
 Antigua and Barbuda,2923,64,1882
-Turks and Caicos,2834,23,2748
+Turks and Caicos,2834,23,2749
 British Virgin Islands,2642,37,2555
 Bhutan,2599,3,2593
-Caribbean Netherlands,2019,19,1918
+Caribbean Netherlands,2045,19,1918
 Saint Kitts and Nevis,1872,11,976
 St. Barth,1565,3,462
 Tanzania,1367,50,183
 Faeroe Islands,1127,2,1051
-Cayman Islands,795,2,747
+Cayman Islands,812,2,761
 Diamond Princess,712,13,699
 Greenland,565,NA,398
 Wallis and Futuna,445,7,438
-Anguilla,364,1,345
+Anguilla,389,1,362
 Macao,67,NA,63
 Falkland Islands,67,NA,63
 Montserrat,33,1,30
@@ -222,11 +222,11 @@ Samoa,3,NA,3
 Saint Helena,2,NA,2
 Micronesia,1,NA,1
 China,96050,4636,90402
-Total:,52800142,1070674,40875758
+Total:,52802125,1070708,40897692
 Total:,75414849,1115848,71688365
 Total:,37727589,1152539,35731881
-Total:,58585067,1217653,53685459
-Total:,8321441,209757,7613837
+Total:,58585188,1217653,53685590
+Total:,8321457,209757,7613996
 Total:,220596,2807,167835
 Total:,721,15,706
-Total:,233070405,4769293,209763841
+Total:,233072525,4769327,209786065
